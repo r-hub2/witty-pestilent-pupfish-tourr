@@ -23,7 +23,7 @@ RoxygenNote: 7.2.3
 Encoding: UTF-8
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2024-04-19 01:04:43 UTC; cookd
+Packaged: 2024-04-19 23:36:13 UTC; cookd
 Author: Hadley Wickham [aut, ctb] (<https://orcid.org/0000-0003-4757-117X>),
   Dianne Cook [aut, cre] (<https://orcid.org/0000-0002-3813-7155>),
   Nick Spyrison [ctb] (<https://orcid.org/0000-0002-8417-0212>),
